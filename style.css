@@ -1,0 +1,26 @@
+.headsite{
+ display: flex;
+}
+.paragraph{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.espacehead{
+    padding-left: px;
+}
+body{
+    margin-top: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: cornflowerblue;
+}
+.paragraph1{
+    display: flex;
+    justify-content: space-between;
+}
+ #textpage{
+     margin-bottom: 500px;
+ }
+ 
